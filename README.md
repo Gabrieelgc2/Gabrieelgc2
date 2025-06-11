@@ -7,7 +7,32 @@ My name is Gabriel Garcia, I’m 21 years old and I’m from Recife, Brazil.
 I’m currently pursuing a degree in Systems Analysis and Development at Cesar School, where I have the opportunity to learn about IT and its real-world applications.
 I love programming and i'm constantly working to improve, especially in the back-end area.
 
----
+<p align="left">
+    <a href="[Your LinkedIn Profile URL]">
+        <img
+            alt="LinkedIn"
+            title="Conecte-se no LinkedIn"
+            width="30px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+    </a>
+    <a href="https://github.com/Larissakich">
+        <img
+            alt="GitHub"
+            title="Me siga no GitHub"
+            width="30px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+        />
+    </a>
+    <a href="mailto:[Your Email Address]">
+        <img
+            alt="Email"
+            title="Envie-me um e-mail"
+            width="30px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mail/mail-original.svg"
+        />
+    </a>
+</p>
 
 ### 🤖 Programming Languages and Technologies
 
