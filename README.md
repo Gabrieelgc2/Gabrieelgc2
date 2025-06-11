@@ -15,7 +15,7 @@ I love programming and i'm constantly working to improve, especially in the back
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="gabrielao8@hotmail.com">
+    <a href="mailto:gabrielao8@hotmail.com">
         <img
             alt="Email"
             title="Send me an e-mail"
