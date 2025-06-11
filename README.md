@@ -7,6 +7,32 @@ My name is Gabriel Garcia, I’m 21 years old and I’m from Recife, Brazil.
 I’m currently pursuing a degree in Systems Analysis and Development at Cesar School, where I have the opportunity to learn about IT and its real-world applications.
 I love programming and i'm constantly working to improve, especially in the back-end area.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/gabriel-garcia-siqueira-andrade-de-oliveira/">
+        <img
+            alt="LinkedIn"
+            title="My Linkedin"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="gabrielao8@hotmail.com">
+        <img
+            alt="Email"
+            title="Send me an e-mail"
+            src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C63D2E"
+        />
+    </a>
+    <a href="Github.com/gabrieelgc2">
+        <img
+        alt="Github"
+        title="My github"
+        src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=333"
+        />
+    </a>
+</p>
+
+---
+
 ### 🤖 Programming Languages and Technologies
 
 <img 
