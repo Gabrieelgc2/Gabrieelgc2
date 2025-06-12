@@ -22,7 +22,7 @@ I love programming and i'm constantly working to improve, especially in the back
             src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C63D2E"
         />
     </a>
-    <a href="Github.com/gabrieelgc2">
+    <a href="https://github.com/Gabrieelgc2">
         <img
         alt="Github"
         title="My github"
