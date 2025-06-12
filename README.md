@@ -3,7 +3,7 @@
 **`Back-End Developer`**
 
 Hi, how are you doing?
-My name is Gabriel Garcia, I’m 21 years old and I’m from Recife, Brazil.
+My name is Gabriel Garcia, I’m 22 years old and I’m from Recife, Brazil.
 I’m currently pursuing a degree in Systems Analysis and Development at Cesar School, where I have the opportunity to learn about IT and its real-world applications.
 I love programming and i'm constantly working to improve, especially in the back-end area.
 
