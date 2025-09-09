@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Garcia
 
-**`Back-End Developer`**
+**`Full Stack Developer`**
 
 Hi, how are you doing?
 My name is Gabriel Garcia, I’m 22 years old and I’m from Recife, Brazil.
