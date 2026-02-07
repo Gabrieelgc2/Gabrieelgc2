@@ -1,4 +1,4 @@
-name: Generate GitHub Stats SVG
+name: Generate GitHub Metrics
 
 on:
   schedule:
@@ -6,33 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  metrics:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats SVG
-        uses: anuraghazra/github-readme-stats@v0.9.0
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
-          username: Gabrieelgc2
-          theme: tokyonight
-          show_icons: true
-          include_all_commits: true
-          count_private: true
-          output: assets/github-stats.svg
-
-      - name: Generate Top Languages SVG
-        uses: anuraghazra/github-readme-stats@v0.9.0
-        with:
-          username: Gabrieelgc2
-          theme: tokyonight
-          layout: compact
-          output: assets/top-langs.svg
-
-      - name: Commit SVGs
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "chore: update GitHub stats"
-          add: "assets/*.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Gabrieelgc2
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+          output_action: commit
+          output_path: assets
+          filename: github-metrics.svg
