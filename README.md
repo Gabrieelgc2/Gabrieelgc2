@@ -132,18 +132,16 @@ I love programming and i'm constantly working to improve, especially in the back
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabrieelgc2&show_icons=true&theme=tokyonight&include_all_commits=true" 
+      align="left" 
+      alt="Gabriel's GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=Gabrieelgc2&theme=tokyonight&show_icons=true" 
   />
 
-<img 
+  <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Languages" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieelgc2&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
-
 </p>
